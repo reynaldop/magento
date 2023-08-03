@@ -1,0 +1,1 @@
+/Users/reynaldo/Sites/rey/magento/vendor/magento/module-customer/view/frontend/web/js/section-config.js

@@ -1,0 +1,1 @@
+/Users/reynaldo/Sites/rey/magento/lib/web/js-storage/js.storage.js

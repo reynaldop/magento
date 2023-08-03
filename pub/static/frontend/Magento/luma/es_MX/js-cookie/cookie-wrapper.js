@@ -1,0 +1,1 @@
+/Users/reynaldo/Sites/rey/magento/lib/web/js-cookie/cookie-wrapper.js
