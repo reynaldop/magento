@@ -1,1 +1,0 @@
-/Users/reynaldo/Sites/rey/magento/vendor/magento/module-theme/view/frontend/web/js/cookie-status.js
